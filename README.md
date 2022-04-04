@@ -1,1 +1,5 @@
-# Science-Coding-Immersion-Program
+# Science Coding Immersion Program (SCIP) Program Effectiveness
+
+## Abstract
+
+In 2020, many students lost summer opportunities due to the COVID-19 pandemic. We wanted to offer students an opportunity to learn computational skills and be part of a community while stuck at home. Because the pandemic created an unexpected research and academic situation, it was unclear how to best support students to learn and build community online. We used lessons learned from literature and our own experience to design, run, and test an online program for students called the Science Coding Immersion Program (SCIP). In our program, students worked in teams for 8 hours a week, with one participant as the team leader and Zoom host. Teams worked on an online R or Python class at their own pace with support on Slack from the organizing team. For motivation and career advice, we hosted a weekly webinar with guest speakers. We used pre- and post-program surveys to determine how different aspects of the program impacted students. We were able to recruit a large and diverse group of participants who were happy with the program, found community in their team, and improved their coding confidence. We hope that our work will inspire others to start their own version of SCIP.
