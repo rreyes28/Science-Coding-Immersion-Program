@@ -1,4 +1,7 @@
-# Science Coding Immersion Program (SCIP) Program Effectiveness
+# Science Coding Immersion Program (SCIP) 2020 & 2021 Program Effectiveness
+## A self-paced, community-based summer coding program creates community and increases coding confidence
+
+Rochelle-Jan Reyes, Olivia Pham, Ryan Fergusson, Niquo Ceberio, Candace Clark, C Sarah Cohen, Megumi Fuse, Pleuni Pennings
 
 ## Abstract
 
