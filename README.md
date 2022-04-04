@@ -14,4 +14,5 @@ Here, we present our anonymized data and code that was used to analyze the effec
 ## For More Information
 
 Here is the official SCIP website: https://sfsuscip.wixsite.com/scip
+
 *Please note that the website is not yet complete, but information about the program is provided.*
