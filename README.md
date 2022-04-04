@@ -2,6 +2,7 @@
 *A self-paced, community-based summer coding program creates community and increases coding confidence*
 
 Rochelle-Jan Reyes*, Olivia Pham*, Ryan Fergusson, Niquo Ceberio, Candace Clark, C Sarah Cohen, Megumi Fuse, Pleuni Pennings
+
 *Rochelle-Jan Reyes and Olivia Pham completed data cleaning and analysis presented in the GitHub.
 
 ## Abstract
