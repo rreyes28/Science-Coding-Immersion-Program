@@ -1,6 +1,7 @@
 #-------------------------------------------------------------------------------
 # SCIP Manuscript Plots
-# Created by: Rochelle-Jan Reyes, Olivia Pham
+# Created by: Rochelle-Jan Reyes
+# Code for Figures 3, 5, and 6
 #-------------------------------------------------------------------------------
 
 ############################### Set Up ###############################
@@ -334,13 +335,3 @@ CE20_21 <- plot_grid(rasterGrob(CE20),rasterGrob(CE21), rel_heights = c(0.2, 4),
 CETitle <- ggdraw() + draw_label("Previous Coding Experience", fontface = 'bold', size = 20)
 
 plot_grid(CETitle, CE20_21, ncol = 1, rel_heights = c(0.1, 1), rel_widths = c(0.1, 1)) #1200x600
-
-
-
-
-
-
-
-
-
-
